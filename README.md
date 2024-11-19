@@ -26,6 +26,8 @@ A full-stack web application using **React.js** and **Flask** that enables users
 - **Flask-CORS**: Enables Cross-Origin Resource Sharing (CORS).
 
 ---
+### **Screenshot**
+![image](https://github.com/user-attachments/assets/87ef7edf-419b-44be-a0c4-c5d7f92b1164)
 
 ## **File Structure**
 
