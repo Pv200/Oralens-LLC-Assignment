@@ -30,9 +30,9 @@ A full-stack web application using **React.js** and **Flask** that enables users
 ## **File Structure**
 
 ### **React (Frontend)**
-
-### **Flask (Backend)**
-
+flaskfullstack/ ├── src/ │ ├── components/ │ │ ├── Dashboard.jsx # The main component for the form │ ├── App.js # Root component for the React app │ ├── index.js # Entry point for React ├── package.json # React project dependencies and configurations
+### **Python (Flask) (Backend)**
+flaskfullstack/ ├── python/ │ ├── server.py # The Flask server for backend handling ├── upload/ # Directory where files are uploaded and stored
 ---
 
 ## **Setup and Installation**
